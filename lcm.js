@@ -51,7 +51,7 @@ body.style.cssText = `
   margin: 0;
   font-family: "Ubuntu Mono", "Arial", sans-serif;
   font-weight: 600;
-  font-size: 20px;
+  font-size: 38px;
 `;
 html.style.cssText = `
   heigth: 100%;
